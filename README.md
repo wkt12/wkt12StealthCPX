@@ -1,2 +1,20 @@
 # wkt12StealthCPX
-  Covert TCP Intelligence Rewriter "Encrypt the handshake. Mask the metadata."  WK and manipulate TCP handshakes for ultra-steoperations. By injecting encrypted payloads into SYN packets and wrapping connection metadata with AES and RSA, StealthCPX deflects common detection, obfuscates surveillance, and shields your footprint across the wire.
+
+╔══════════════════════════════════════════════════════╗
+║               WKT12StealthCPX Activated              ║
+║   [ CO VERT  T C P  S Y N T H E S I S  UNIT  #12 ]   ║
+╠══════════════════════════════════════════════════════╣
+║  ⚡ SYN Injection Enabled                             ║
+║  🔐 Handshake Encryption: AES-256 / RSA-4096         ║
+║  🧠 Metadata Cloaking: Active                        ║
+║  🛰️ Stealth Audit Logging: Engaged                   ║
+╠══════════════════════════════════════════════════════╣
+║  Objective: Redefine Connection Integrity            ║
+║  Method: Rewrite SYN → SYN-ACK → ACK flow with      ║
+║          embedded encryption markers and masked ops ║
+╠══════════════════════════════════════════════════════╣
+║  Launch Context:                                     ║
+║    • Rooted Android or Custom VPN Layer              ║
+║    • Supports custom TCPX protocol overlays          ║
+║    • CLI / GUI toggle integrated                     ║
+╚══════════════════════════════════════════════════════╝
